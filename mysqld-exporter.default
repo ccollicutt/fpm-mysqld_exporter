@@ -1,0 +1,4 @@
+LISTEN_PORT=9104
+LISTEN_ADDRESS=127.0.0.1
+MY_CNF=/etc/mysqld-exporter/my.cnf
+OPTIONS=""
